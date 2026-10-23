@@ -1,0 +1,6 @@
+{
+  "name": "SinaNex LLC | AI-Powered Products",
+  "description": "SinaNex builds intelligent, AI-powered applications. Discover 7CV, our smart AI resume builder.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
